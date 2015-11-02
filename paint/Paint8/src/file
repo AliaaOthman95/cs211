@@ -1,0 +1,37 @@
+@Test
+		public void json() {
+			Engine e = Engine.getInstance();
+			Circle c = new Circle();	
+			Square s = new Square();
+			Rectangle r = new Rectangle();
+			Map<String, Double> properties = new HashMap<>();
+
+			c.setPosition(new Point(100, 100));
+			properties = new HashMap<>();
+			properties.put("Radius", 100.0);
+			c.setProperties(properties);
+			
+
+			s.setPosition(new Point(200, 200));
+			properties = new HashMap<>();
+			properties.put("SideLength", 150.0);
+			s.setProperties(properties);
+	 	
+			r.setPosition(new Point(300, 300));
+			properties = new HashMap<>();
+			properties.put("Length", 150.0);
+			properties.put("Width", 100.0);
+			r.setProperties(properties);
+
+
+			e.addShape(c);
+			e.addShape(s);
+			e.addShape(r);
+			
+			e.save("F:\\a.json");
+			e.load("F:\\a.json");
+			
+			Shape [] test = {c , s , r};
+			Assert.assertArrayEquals(test, e.getShapes());
+		
+		}
