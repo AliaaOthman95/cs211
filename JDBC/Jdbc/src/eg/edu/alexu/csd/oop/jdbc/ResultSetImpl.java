@@ -726,17 +726,7 @@ System.out.println(result.length+"length");
 			return false;
 		}
 		return false; 
-		/*if (counter - 1 >= -1) {
-
-			if (counter - 1 != -1) {
-				counter--;
-				current = selected[counter];
-			} else {
-				counter--;
-			}
-			return true;
-		}
-		return false;*/
+		 
 	}
 
 	@Override
