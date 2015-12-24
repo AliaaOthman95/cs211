@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.9" icons="true">  
+  <object id="1" language="java" name="eg.edu.alexu.csd.oop.game.Gui" project="NewShehab" 
+    file="/NewShehab/src/eg/edu/alexu/csd/oop/game/Gui.java" binary="false" label="gui" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="99" y="0"/>    
+    <execution id="2">      
+      <position height="458" width="122" x="5" y="83"/>    
+    </execution>  
+  </object>  
+  <object id="7" language="java" name="eg.edu.alexu.csd.oop.game.MenuBar" project="NewShehab" 
+    file="/NewShehab/src/eg/edu/alexu/csd/oop/game/MenuBar.java" binary="false" label="menuBar" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="135" y="0"/>    
+    <execution id="8">      
+      <position height="189" width="122" x="131" y="521"/>    
+    </execution>  
+  </object>  
+  <object id="11" language="java" name="eg.edu.alexu.csd.oop.game.WorldImplementation" project="NewShehab" 
+    file="/NewShehab/src/eg/edu/alexu/csd/oop/game/WorldImplementation.java" binary="false" label="worldImplementation" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="250" y="0"/>    
+    <execution id="6">      
+      <position height="395" width="145" x="131" y="125"/>    
+    </execution>    
+    <execution id="24">      
+      <position height="21" width="145" x="131" y="312"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="21" width="145" x="131" y="375"/>    
+    </execution>    
+    <execution id="26">      
+      <position height="21" width="145" x="131" y="438"/>    
+    </execution>    
+    <execution id="27">      
+      <position height="21" width="7" x="326" y="116"/>    
+    </execution>  
+  </object>  
+  <object id="28" language="java" name="eg.edu.alexu.csd.oop.game.ShapesPlugin" project="NewShehab" 
+    file="/NewShehab/src/eg/edu/alexu/csd/oop/game/ShapesPlugin.java" binary="false" label="shapesPlugin" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="426" y="0"/>    
+    <execution id="13">      
+      <position height="21" width="122" x="280" y="146"/>    
+    </execution>  
+  </object>  
+  <object id="29" language="java" name="eg.edu.alexu.csd.oop.game.Score" project="NewShehab" 
+    file="/NewShehab/src/eg/edu/alexu/csd/oop/game/Score.java" binary="false" label="score" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="790" y="0"/>    
+    <execution id="17">      
+      <position height="48" width="122" x="532" y="203"/>    
+    </execution>  
+  </object>  
+  <object id="32" language="java" name="eg.edu.alexu.csd.oop.game.Levels" project="NewShehab" 
+    file="/NewShehab/src/eg/edu/alexu/csd/oop/game/Levels.java" binary="false" label="levels" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="425" y="0"/>    
+    <execution id="19">      
+      <position height="63" width="122" x="406" y="227"/>    
+    </execution>    
+    <execution id="21">      
+      <position height="210" width="122" x="406" y="270"/>    
+    </execution>    
+    <execution id="31">      
+      <position height="21" width="122" x="658" y="209"/>    
+    </execution>  
+  </object>  
+  <object id="40" language="java" name="eg.edu.alexu.csd.oop.game.Factory" project="NewShehab" 
+    file="/NewShehab/src/eg/edu/alexu/csd/oop/game/Factory.java" binary="false" label="factory" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="505" y="0"/>    
+    <execution id="15">      
+      <position height="21" width="122" x="406" y="188"/>    
+    </execution>    
+    <execution id="34">      
+      <position height="21" width="122" x="532" y="248"/>    
+    </execution>    
+    <execution id="36">      
+      <position height="21" width="122" x="532" y="291"/>    
+    </execution>  
+  </object>  
+  <object id="41" language="java" name="eg.edu.alexu.csd.oop.game.ShapesStates" project="NewShehab" 
+    file="/NewShehab/src/eg/edu/alexu/csd/oop/game/ShapesStates.java" binary="false" label="shapesStates" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="739" y="0"/>    
+    <execution id="23">      
+      <position height="21" width="122" x="658" y="478"/>    
+    </execution>  
+  </object>  
+  <object id="42" language="java" name="eg.edu.alexu.csd.oop.game.SavingStrategy" project="NewShehab" 
+    file="/NewShehab/src/eg/edu/alexu/csd/oop/game/SavingStrategy.java" binary="false" label="savingStrategy" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1080" y="0"/>    
+    <execution id="10">      
+      <position height="147" width="122" x="1036" y="542"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="63" width="122" x="1036" y="104"/>    
+    </execution>    
+    <execution id="53">      
+      <position height="63" width="122" x="1036" y="95"/>    
+    </execution>  
+  </object>  
+  <object id="55" language="java" name="eg.edu.alexu.csd.oop.game.Originator" project="NewShehab" 
+    file="/NewShehab/src/eg/edu/alexu/csd/oop/game/Originator.java" binary="false" label="originator" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="842" y="0"/>    
+    <execution id="44">      
+      <position height="21" width="122" x="1162" y="563"/>    
+    </execution>    
+    <execution id="46">      
+      <position height="21" width="122" x="1162" y="588"/>    
+    </execution>    
+    <execution id="48">      
+      <position height="21" width="122" x="1162" y="613"/>    
+    </execution>  
+  </object>  
+  <object id="56" language="java" name="eg.edu.alexu.csd.oop.game.FileSerialization" project="NewShehab" 
+    file="/NewShehab/src/eg/edu/alexu/csd/oop/game/FileSerialization.java" binary="false" label="fileSerialization" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="822" y="0"/>    
+    <execution id="50">      
+      <position height="21" width="122" x="1288" y="647"/>    
+    </execution>    
+    <execution id="52">      
+      <position height="21" width="122" x="1288" y="125"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="load():eg.edu.alexu.csd.oop.game.SnapShot" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="getInstance(int,int):eg.edu.alexu.csd.oop.game.WorldImplementation" asynchronous="false" 
+    x="76" y="129">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="9" operation="Save():void" asynchronous="false" x="692" y="525">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="12" operation="loadShapes():java.util.List&lt;Class&lt;? extends GameObjectImpl&gt;&gt;" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="14" operation="getInstance():eg.edu.alexu.csd.oop.game.Factory" asynchronous="false" x="259" y="171">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="16" operation="getScore(int,eg.edu.alexu.csd.oop.game.Shape,eg.edu.alexu.csd.oop.game.Shape,boolean):int" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="18" operation="getInstance():eg.edu.alexu.csd.oop.game.Levels" asynchronous="false">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="19"/>  
+  </message>  
+  <message id="20" operation="notifyObserver(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="22" operation="chooseJob(boolean):void" asynchronous="false" x="506" y="458">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="30" operation="notifyObserver(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="31"/>  
+  </message>  
+  <message id="33" operation="getInstance():eg.edu.alexu.csd.oop.game.Factory" asynchronous="false">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="34"/>  
+  </message>  
+  <message id="35" operation="buildShape(java.lang.String,int,int):eg.edu.alexu.csd.oop.game.Shape" asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="36"/>  
+  </message>  
+  <message id="37" operation="getConstantObjects():java.util.List&lt;GameObject&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="24"/>  
+  </message>  
+  <message id="38" operation="getControlableObjects():java.util.List&lt;GameObject&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="39" operation="getMovableObjects():java.util.List&lt;GameObject&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="26"/>  
+  </message>  
+  <message id="43" operation="setState(eg.edu.alexu.csd.oop.game.SnapShot):void" asynchronous="false">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="44"/>  
+  </message>  
+  <message id="45" operation="saveStateToMemento():eg.edu.alexu.csd.oop.game.Memento" asynchronous="false">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="46"/>  
+  </message>  
+  <message id="47" operation="getStateFromMemento(eg.edu.alexu.csd.oop.game.Memento):void" asynchronous="false" x="1100" 
+    y="596">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="48"/>  
+  </message>  
+  <message id="49" operation="serialize(eg.edu.alexu.csd.oop.game.SnapShot):void" asynchronous="false">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="50"/>  
+  </message>  
+  <message id="51" operation="deserialize():eg.edu.alexu.csd.oop.game.SnapShot" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="52"/>  
+  </message>  
+  <message id="54" operation="getInstance(int,int):eg.edu.alexu.csd.oop.game.WorldImplementation" asynchronous="false" 
+    x="834" y="124">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="27"/>  
+  </message>
+</sequence-diagram>

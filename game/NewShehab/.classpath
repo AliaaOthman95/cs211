@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/aliaa/Documents/csed 2nd year/trm 1/OOP/project 5/NewShehab10/shapes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aliaa/Documents/csed 2nd year/trm 1/OOP/project 5/engine_v3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
